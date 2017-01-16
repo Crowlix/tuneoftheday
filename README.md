@@ -1,5 +1,5 @@
 <h2>What does this do?</h2>
-<p>Whenever someone posts a spotify URI in a slack channel, the webtask adds the track to a playlist of choice.</p>
+<p>Whenever someone posts a spotify URI in a slack channel, an outgoing webhook contacts a webtask and adds the track to a playlist of choice.</p>
 <p>The project consists out of 3 webtasks and 1 online JSON storage</p>
 
 <h2>What do I need to set this up?</h2>
